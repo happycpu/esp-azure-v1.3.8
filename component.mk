@@ -1,6 +1,6 @@
 #
 # Component Makefile
-#aaa
+#
  
 # Component configuration in preprocessor defines
 CFLAGS += -DUSE_LWIP_SOCKET_FOR_AZURE_IOT
