@@ -1,4 +1,4 @@
-# ESP Azure IoT SDK
+# ESP Azure IoT SDK 정찬홍
 
 ## Table of Contents
 
