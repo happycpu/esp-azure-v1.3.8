@@ -1,6 +1,6 @@
 #
 # Component Makefile
-#
+#aaa
  
 # Component configuration in preprocessor defines
 CFLAGS += -DUSE_LWIP_SOCKET_FOR_AZURE_IOT
@@ -161,7 +161,7 @@ COMPONENT_SRCDIRS += azure-iot-sdk-c/certs
 endif
 
 CFLAGS += -Wno-unused-function -Wno-missing-braces -Wno-missing-field-initializers -DHSM_TYPE_SAS_TOKEN
-
+#수정
 ifdef CONFIG_DEVICE_COMMON_NAME
 CFLAGS += -DUSE_PROV_MODULE
 endif
