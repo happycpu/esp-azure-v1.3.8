@@ -1,5 +1,7 @@
 # ESP Azure IoT SDK 정찬홍.
 
+git clone --recuresive https://github.com/happycpu/esp-azure-v1.3.8.git esp-azure
+
 ## Table of Contents
 
 - [Introduction](#introduction)
